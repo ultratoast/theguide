@@ -1,0 +1,22 @@
+{
+  "name": "guide-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-proptypes": "^1.0.0",
+    "react-redux": "^5.0.6",
+    "react-redux-forms": "^0.2.0",
+    "react-router": "^4.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
